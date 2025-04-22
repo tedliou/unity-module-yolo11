@@ -1,7 +1,7 @@
 {
   "author": "Ted Liou",
-  "description": "123",
-  "displayName": "YOLO11 Module",
+  "description": "A lightweight YOLO11 pose estimation implement (with python module).",
+  "displayName": "MDF YOLO11",
   "keywords": [
     "yolo"
   ],
