@@ -17,7 +17,7 @@ namespace MDF.YOLO11
 
         [Header("OSC Settings")]
         public int port = 5005;
-        public string path = "/yolo11";
+        public string path = "/yolo";
 
         private OscServer _server;
         private List<JToken> _buffer;
