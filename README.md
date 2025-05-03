@@ -10,5 +10,5 @@ Depends OscJack.
 
 ```
 https://github.com/keijiro/OscJack.git?path=Packages/jp.keijiro.osc-jack#2.0.0
-https://github.com/tedliou/unity-module-yolo11.git#1.0.0
+https://github.com/tedliou/mdf-unity-yolo.git#1.0.1
 ```
